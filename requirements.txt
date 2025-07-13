@@ -1,0 +1,7 @@
+Flask
+Flask_SQLAlchemy
+Flask_Login
+gunicorn
+requests
+python-dotenv
+ib_insync
